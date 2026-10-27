@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Allan Christian 👋
 
-<!--
-**MecAln/MecAln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software em formação, 
 
-Here are some ideas to get you started:
+Atualmente curso Análise e Desenvolvimento de Sistemas e atuo aplicando programação na prática para resolver problemas reais de processos internos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Minha Stack
+- **Linguagens:** JavaScript, HTML5, CSS3, Google Apps Script
+- **Ferramentas:** Git, GitHub, Excel Avançado, Vscode, GS
+- **Foco:** Automação de Processos e Sistemas Internos, Desenvolvimento de sistemas
+
+### 🚀 Meus Principais Projetos
+
+
+
+📫 **Como me encontrar:** [allnchr](https://www.linkedin.com/in/allnchr/) | allanchristianfontes.a@gmail.com
