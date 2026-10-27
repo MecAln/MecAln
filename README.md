@@ -13,4 +13,4 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e atuo aplicando program
 
 
 
-📫 **Como me encontrar:** [allnchr](https://www.linkedin.com/in/allnchr/) | allanchristianfontes.a@gmail.com
+📫 **Como me encontrar:** LINKEDIN [allnchr](https://www.linkedin.com/in/allnchr/) | allanchristianfontes.a@gmail.com
